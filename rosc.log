@@ -1,0 +1,6 @@
+Circuit: * C:\Users\Nagesh\Desktop\SPICE\rosc.asc
+
+Error on line 1058 : .ic v[osc_out] = 1
+	 Error: .ic syntax error.
+Fatal Error: Voltage source V:X17:1 and voltage source VDD are paralleled making an over-defined circuit matrix.
+You will need to correct the circuit or add some series resistance.

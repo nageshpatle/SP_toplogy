@@ -1,0 +1,27 @@
+Circuit: * C:\Users\Nagesh\Desktop\SPICE\LD.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0004059 to 0.000405902
+Heightened Def Con from 0.0007914 to 0.000791402
+Heightened Def Con from 0.0009049 to 0.000904902
+Heightened Def Con from 0.0009404 to 0.000940402
+Heightened Def Con from 0.0009519 to 0.000951901
+Heightened Def Con from 0.00115343 to 0.00115343
+
+Date: Sun Sep 02 04:17:13 2018
+Total elapsed time: 15.701 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8010884
+traniter = 8010881
+tranpoints = 1976060
+accept = 1505303
+rejected = 470763
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1:      30 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 707 bytes object code size  0.1/0.2/[0.1]
+
